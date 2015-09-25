@@ -1,0 +1,18 @@
+body{
+	margin:0px;
+	padding:0px;
+}
+.container{
+	width: 800px;
+	height: 800px;
+}
+.gridSquare{
+	display: inline-block;
+	margin: 1px;
+	background-color: black;
+}
+
+.newRow{
+	height: 0px;
+	margin-top: -4px;
+}
